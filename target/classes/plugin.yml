@@ -1,0 +1,13 @@
+name: SilkyShops
+version: 1.0-BETA
+main: us.thezircon.play.silkyshops.SilkyShops
+prefix: SilkyShops
+softdepend: [SilkySpawners, SilkySpawnersLITE]
+authors: [BUTTERFIELD8]
+api-version: 1.13
+description: Buy and sell silky spawners
+website: https://discord.gg/ZtEKWcH
+commands:
+  silkyshop:
+    description: Spawner shop command
+    aliases: [spawnershop]

@@ -1,0 +1,58 @@
+ConfigVersion: 1.0
+############################################################################
+#     _____ _ _ _              _____ _                                     #
+#    / ____(_) | |            / ____| |                    B E T A         #
+#   | (___  _| | | ___   _   | (___ | |__   ___  _ __  ___                 #
+#    \___ \| | | |/ / | | |   \___ \| '_ \ / _ \| '_ \/ __|                #
+#    ____) | | |   <| |_| |   ____) | | | | (_) | |_) \__ \                #
+#   |_____/|_|_|_|\_\\__, |  |_____/|_| |_|\___/| .__/|___/                #
+#                     __/ |                     | |                        #
+#                    |___/                      |_|                        #
+#                                                                          #
+############################################################################
+# By: BUTTERFIELD8 & The Zircon Network                                    #
+# Discord: https://discord.gg/ZtEKWcH                                      #
+############################################################################
+
+Messages:
+  msgPrefix: "&8[&bSilky&6&lShops&8]"
+
+Menus:
+  Buy:
+    Title: "&a&lBuy Spawners"
+    BorderMaterial:
+      A: CYAN_STAINED_GLASS_PANE
+      B: ORANGE_STAINED_GLASS_PANE
+  Sell:
+    Title: "&c&lSell Spawners"
+    BorderMaterial:
+      A: CYAN_STAINED_GLASS_PANE
+      B: ORANGE_STAINED_GLASS_PANE
+  Market:
+    Title: "&5&lSpawner Market"
+    BorderMaterial:
+      A: CYAN_STAINED_GLASS_PANE
+      B: ORANGE_STAINED_GLASS_PANE
+
+MenuIcons:
+  Next:
+    Name: "&7Next"
+    Material: STONE_BUTTON
+    #Lore:
+  Back:
+    Name: "&7Back"
+    Material: STONE_BUTTON
+    #Lore:
+  Balance:
+    Name: "&6Balance:"
+    Material: GOLD_BLOCK
+    Lore:
+      - "&a${balance}"
+
+Prices:
+  PIG:
+    Buy: 1000.00
+    Sell: 500.00
+  COW:
+    Buy: 1000.00
+    Sell: 500.00
