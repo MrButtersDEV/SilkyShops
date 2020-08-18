@@ -22,3 +22,21 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 .idea/workspace.xml
+.idea/discord.xml
+.idea/encodings.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/libraries/Maven__org_spigotmc_spigot_api_1_15_2_R0_1_SNAPSHOT.xml
+.idea/encodings.xml
+.idea/workspace.xml
+.idea/libraries/Maven__org_spigotmc_spigot_api_1_15_2_R0_1_SNAPSHOT.xml
+.idea/encodings.xml
+.idea/workspace.xml
+.idea/libraries/Maven__org_spigotmc_spigot_api_1_15_2_R0_1_SNAPSHOT.xml
+.idea/encodings.xml
+*.xml
+.idea/encodings.xml
+.idea/libraries/Maven__org_spigotmc_spigot_api_1_15_2_R0_1_SNAPSHOT.xml
+.idea/workspace.xml
